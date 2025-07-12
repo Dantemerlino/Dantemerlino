@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dantemerlino, a resident physician in Otolaryngology
+- 👋 Hi, I’m @Dantemerlino, a fellow in Head and Neck Surgical Oncology
 - 👀 I’m interested in utilizing machine learning to maximize productivity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on machine learning 
