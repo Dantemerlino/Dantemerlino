@@ -22,7 +22,7 @@ Physician–scientist and head & neck surgeon passionate about combining **clini
 
 - 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Transoral Robotic Surgery  
 - 💻 **Research:** Surgical quality metrics, treatment deescalation of HPV-mediated oropharyngeal cancer  
-- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  • Epic Clarity/Caboodle  
+- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  • Google Cloud Platform 
 
 ---
 
