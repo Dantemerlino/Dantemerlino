@@ -90,15 +90,8 @@ Physician–scientist and head & neck surgeon passionate about combining **clini
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="40"/></a>
+  <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="40" alt="Email"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar.png" width="40"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar.png" width="40" alt="Google Scholar"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>“The future of surgery isn’t just in the OR — it’s in how we use data, algorithms, and imagination to reimagine care.”</i>
-</p>
+  <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png" width="42" alt="GitHub" style="filter: dro
