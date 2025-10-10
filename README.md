@@ -1,12 +1,11 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0077B5;">Dante Merlino, MD, PhD</span></h1>
 <h3 align="center">Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction | University of Pennsylvania</h3>
-
+<h4 align="center">Former Resident, Otolaryngology - Head & Neck Surgery | Mayo Clinic </h4>
 ---
 
 <p align="center">
   <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.shields.io/badge/Email-Dante.J.Merlino%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/dantemerlino"><img src="https://img.shields.io/badge/LinkedIn-Dante%20Merlino-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Dantemerlino"><img src="https://img.shields.io/badge/GitHub-Dantemerlino-black?style=for-the-badge&logo=github" /></a>
 </p>
 
@@ -22,8 +21,8 @@ My work spans from **operating rooms to Databricks clusters**, integrating **Epi
 ### 🔬 Current Focus
 
 - 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Robotic Surgery  
-- 💻 **Research:** Surgical quality metrics, predictive modeling, and AI-driven clinical trials  
-- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  
+- 💻 **Research:** Surgical quality metrics, treatment deescalation of HPV-mediated oropharyngeal cancer  
+- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  • Epic Clarity/Caboodle  
 
 ---
 
@@ -41,7 +40,7 @@ My work spans from **operating rooms to Databricks clusters**, integrating **Epi
 <details>
   <summary><b>📊 Healthcare Informatics & Dashboards</b></summary>
   <ul>
-    <li>Built multi-institutional dashboards from <b>Epic → Databricks pipelines</b> for quality improvement and volume tracking.</li>
+    <li>Built dashboards from <b>Epic → Databricks pipelines</b> for quality improvement and volume tracking.</li>
     <li>Implemented <b>Epic Clarity/Caboodle ETL</b> into Databricks using structured SQL + Python workflows.</li>
     <li>Designed LLM-assisted <b>documentation review</b> and <b>readmission classification</b> models.</li>
   </ul>
@@ -51,7 +50,6 @@ My work spans from **operating rooms to Databricks clusters**, integrating **Epi
   <summary><b>🧬 Research & Publications</b></summary>
   <ul>
     <li>Exploring AI and large language models for <b>clinical documentation optimization</b>.</li>
-    <li>Leading the white paper: <i>“The Future of Otolaryngology–Head & Neck Surgery in an AI World.”</i></li>
     <li>Focus on <b>AI governance, ethics, and responsible adoption</b> in surgical practice.</li>
   </ul>
 </details>
@@ -86,13 +84,8 @@ My work spans from **operating rooms to Databricks clusters**, integrating **Epi
 <p align="center">
   <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dantemerlino"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“The future of surgery isn’t just in the OR — it’s in how we use data, algorithms, and imagination to reimagine care.”</i>
-</p>
