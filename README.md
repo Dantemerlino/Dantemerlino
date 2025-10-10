@@ -3,10 +3,10 @@
 <h3 align="center">Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction | University of Pennsylvania</h3>
 <h4 align="center">Former Resident, Otolaryngology - Head & Neck Surgery | Mayo Clinic </h4>
 
-
 <p align="center">
   <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.shields.io/badge/Email-Dante.J.Merlino%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/Dantemerlino"><img src="https://img.shields.io/badge/GitHub-Dantemerlino-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Dante%20Merlino-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,14 +15,13 @@
 
 Physician–scientist and head & neck surgeon passionate about combining **clinical practice**, **data science**, and **AI-driven analytics** to improve surgical outcomes and healthcare efficiency. 
 
-
 ---
 
 ### 🔬 Current Focus
 
 - 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Transoral Robotic Surgery  
 - 💻 **Research:** Surgical quality metrics, treatment deescalation of HPV-mediated oropharyngeal cancer  
-- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  • Google Cloud Platform 
+- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle • Google Cloud Platform  
 
 ---
 
@@ -79,13 +78,27 @@ Physician–scientist and head & neck surgeon passionate about combining **clini
 
 ---
 
+### 📄 CV & Summary
+
+<p align="center">
+  <a href="https://github.com/Dantemerlino/Dantemerlino/raw/main/DanteMerlino_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://github.com/Dantemerlino/Dantemerlino/raw/main/DanteMerlino_Summary.pdf"><img src="https://img.shields.io/badge/1--Page%20Summary-PDF-darkgreen?style=for-the-badge&logo=readme&logoColor=white" /></a>
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar.png" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40"/></a>
 </p>
 
 ---
 
+<p align="center">
+  <i>“The future of surgery isn’t just in the OR — it’s in how we use data, algorithms, and imagination to reimagine care.”</i>
+</p>
