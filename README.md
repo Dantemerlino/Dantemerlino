@@ -94,4 +94,7 @@ Physician–scientist and head & neck surgeon passionate about combining **clini
   &nbsp;&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar.png" width="40" alt="Google Scholar"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png" width="42" alt="GitHub" style="filter: dro
+  <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png" width="42" alt="GitHub" style="filter: drop-shadow(0px 0px 2px #999);" /></a>
+</p>
+
+---
