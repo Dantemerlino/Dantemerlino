@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0077B5;">Dante Merlino, MD, PhD</span></h1>
+<h1 align="center"><span style="color:#0077B5;">Dante Merlino, MD, PhD</span></h1>
 <h3 align="center">Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction | University of Pennsylvania</h3>
 <h4 align="center">Former Resident, Otolaryngology - Head & Neck Surgery | Mayo Clinic </h4>
 ---
