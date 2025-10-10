@@ -13,14 +13,14 @@
 
 ### 🧠 About Me
 
-Physician–scientist and head & neck surgeon passionate about combining **clinical practice**, **data science**, and **AI-driven analytics** to improve surgical outcomes and healthcare efficiency.  
-My work spans from **operating rooms to Databricks clusters**, integrating **Epic Clarity/Caboodle data**, **machine learning**, and **clinical insight** to translate data into actionable improvements in care.
+Physician–scientist and head & neck surgeon passionate about combining **clinical practice**, **data science**, and **AI-driven analytics** to improve surgical outcomes and healthcare efficiency. 
+
 
 ---
 
 ### 🔬 Current Focus
 
-- 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Robotic Surgery  
+- 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Transoral Robotic Surgery  
 - 💻 **Research:** Surgical quality metrics, treatment deescalation of HPV-mediated oropharyngeal cancer  
 - 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle  • Epic Clarity/Caboodle  
 
