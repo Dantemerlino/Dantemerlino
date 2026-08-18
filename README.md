@@ -1,100 +1,101 @@
 <!-- Banner -->
-<h1 align="center"><span style="color:#0077B5;">Dante Merlino, MD, PhD</span></h1>
-<h3 align="center">Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction | University of Pennsylvania</h3>
-<h4 align="center">Former Resident, Otolaryngology - Head & Neck Surgery | Mayo Clinic </h4>
+<h1 align="center">Dante Merlino, MD, PhD</h1>
+<h3 align="center">Head and Neck Surgical Oncologist</h3>
 
 <p align="center">
-  <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.shields.io/badge/Email-Dante.J.Merlino%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Dantemerlino"><img src="https://img.shields.io/badge/GitHub-Dantemerlino-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Dante%20Merlino-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  Visiting Assistant Professor &middot; Department of Otolaryngology&ndash;Head and Neck Surgery<br />
+  University of Illinois College of Medicine &middot; UI Health, Chicago
+</p>
+
+<p align="center">
+  <sub>
+    Fellowship, Head and Neck Surgical Oncology &amp; Microvascular Reconstruction &mdash; University of Pennsylvania<br />
+    Residency, Otolaryngology&ndash;Head and Neck Surgery &mdash; Mayo Clinic
+  </sub>
+</p>
+
+<p align="center">
+  <a href="mailto:dmerlino@uic.edu">dmerlino@uic.edu</a> &middot;
+  <a href="mailto:dante.j.merlino@gmail.com">dante.j.merlino@gmail.com</a> &middot;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=qesKpL4AAAAJ">Google Scholar</a> &middot;
+  <a href="https://dantemerlino.github.io">dantemerlino.github.io</a>
 </p>
 
 ---
 
-### 🧠 About Me
+### About
 
-Physician–scientist and head & neck surgeon passionate about combining **clinical practice**, **data science**, and **AI-driven analytics** to improve surgical outcomes and healthcare efficiency. 
-
----
-
-### 🔬 Current Focus
-
-- 🏥 **Clinical:** Head & Neck Oncology, Microvascular Reconstruction, Transoral Robotic Surgery  
-- 💻 **Research:** Surgical quality metrics, treatment deescalation of HPV-mediated oropharyngeal cancer  
-- 🧩 **Technology:** Python • SQL • LangChain • Databricks • LM Studio • Epic Clarity/Caboodle • Google Cloud Platform  
+Head and neck surgical oncologist and physician&ndash;scientist. My clinical practice covers the
+surgical management of head and neck malignancy, including transoral robotic surgery and
+microvascular free tissue reconstruction. My research applies data science and applied AI to
+surgical outcomes, quality measurement, and the clinical data infrastructure that supports them.
 
 ---
 
-### 🚀 Featured Projects
+### Clinical and Research Focus
+
+- **Clinical:** Surgical management of head and neck cancer; transoral robotic surgery; microvascular free tissue transfer
+- **Research:** Surgical quality metrics; treatment de-escalation in HPV-mediated oropharyngeal carcinoma
+- **Informatics:** Clinical data pipelines, outcomes registries, and applied language models in surgical care
+
+---
+
+### Selected Work
 
 <details>
-  <summary><b>🧠 AI Agents for Surgical Analytics</b></summary>
+  <summary><b>AI Agents for Surgical Analytics</b></summary>
   <ul>
-    <li>Developed a <b>post-operative readmission prediction agent</b> using <code>mlflow</code> and <code>LangGraph</code>.</li>
-    <li>Created an “Optimization Master” that automatically rewrites SQL with early filters, CTEs, and execution plan hints.</li>
-    <li>Integrated with Databricks <code>LLM endpoints</code> for multi-query reasoning and report generation.</li>
+    <li>Developed a <b>post-operative readmission prediction agent</b> using <code>MLflow</code> and <code>LangGraph</code>.</li>
+    <li>Built an SQL optimization agent that rewrites queries with early filters, CTEs, and execution plan hints.</li>
+    <li>Integrated Databricks <code>LLM endpoints</code> for multi-query reasoning and report generation.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>📊 Healthcare Informatics & Dashboards</b></summary>
+  <summary><b>Healthcare Informatics and Dashboards</b></summary>
   <ul>
-    <li>Built dashboards from <b>Epic → Databricks pipelines</b> for quality improvement and volume tracking.</li>
-    <li>Implemented <b>Epic Clarity/Caboodle ETL</b> into Databricks using structured SQL + Python workflows.</li>
+    <li>Built <b>Epic &rarr; Databricks pipelines</b> supporting quality improvement and surgical volume tracking.</li>
+    <li>Implemented <b>Epic Clarity and Caboodle ETL</b> into Databricks using structured SQL and Python workflows.</li>
     <li>Designed LLM-assisted <b>documentation review</b> and <b>readmission classification</b> models.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🧬 Research & Publications</b></summary>
+  <summary><b>Research and Publications</b></summary>
   <ul>
-    <li>Exploring AI and large language models for <b>clinical documentation optimization</b>.</li>
-    <li>Focus on <b>AI governance, ethics, and responsible adoption</b> in surgical practice.</li>
+    <li>Evaluating large language models for <b>clinical documentation optimization</b>.</li>
+    <li>Working on <b>AI governance, ethics, and responsible adoption</b> in surgical practice.</li>
   </ul>
 </details>
 
 ---
 
-### 🤝 Collaboration Interests
+### Collaboration Interests
 
-- 🧩 AI & machine learning in clinical applications  
-- 🏥 Databricks + Epic integration for healthcare data pipelines  
-- 📈 Surgical outcomes, predictive analytics, and quality registries  
-- ⚙️ LangChain, LangGraph, and local LLM deployments (LM Studio, Ollama)
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM%20Studio-000000?style=flat&logo=openaigym&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Epic%20Clarity/Caboodle-990000?style=flat&logo=epicgames&logoColor=white" />
-</p>
+- Machine learning and large language models applied to clinical problems
+- Databricks and Epic integration for healthcare data pipelines
+- Surgical outcomes, predictive analytics, and quality registries
+- Agentic workflows and local LLM deployment for protected health data
 
 ---
 
-### 📄 CV & Summary
+### Technical Toolkit
 
-<p align="center">
-  <a href="https://github.com/Dantemerlino/Dantemerlino/raw/main/DanteMerlino_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <a href="https://github.com/Dantemerlino/Dantemerlino/raw/main/DanteMerlino_Summary.pdf"><img src="https://img.shields.io/badge/1--Page%20Summary-PDF-darkgreen?style=for-the-badge&logo=readme&logoColor=white" /></a>
-</p>
+Python &middot; SQL &middot; Databricks &middot; MLflow &middot; LangChain / LangGraph &middot;
+Epic Clarity and Caboodle &middot; Google Cloud Platform &middot; LM Studio
 
 ---
 
-### 📫 Connect with Me
+### CV and Summary
 
-<p align="center">
-  <a href="mailto:dante.j.merlino@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="40" alt="Email"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar.png" width="40" alt="Google Scholar"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Dantemerlino"><img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png" width="42" alt="GitHub" style="filter: drop-shadow(0px 0px 2px #999);" /></a>
-</p>
+- [Full curriculum vitae (PDF)](https://github.com/Dantemerlino/Dantemerlino/raw/main/Dante_Merlino_CV.pdf)
+- [One-page summary (PDF)](https://github.com/Dantemerlino/Dantemerlino/raw/main/Dante_Merlino_Summary.pdf)
 
 ---
+
+### Contact
+
+- **University:** [dmerlino@uic.edu](mailto:dmerlino@uic.edu)
+- **Personal:** [dante.j.merlino@gmail.com](mailto:dante.j.merlino@gmail.com)
+- **Google Scholar:** [Dante Merlino](https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ)
+- **GitHub:** [@Dantemerlino](https://github.com/Dantemerlino)
