@@ -118,7 +118,7 @@ neuronal injury.
 
 | Venue | Talk |
 |---|---|
-| **Epic Users Group Meeting** &mdash; Verona, WI, Aug 2026 | *Agent Factory: building the healthcare helpers of the future* (co-presenter) |
+| **Epic Users Group Meeting** &mdash; Verona, WI, Aug 2026 | *Agent Factory: building the healthcare helpers of the future* |
 | **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Jul 2026 | *AI infrastructure for research & outcomes — building institutional intelligence* (invited panelist, AI in Head & Neck Surgery pre-meeting course) |
 | **Penn AI in Medicine Conference** &mdash; Philadelphia, Apr 2026 | *Automated multi-model AI consensus system for surgical laterality verification* |
 
