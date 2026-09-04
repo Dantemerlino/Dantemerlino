@@ -62,7 +62,8 @@ neuronal injury.
         portal correspondence, <i>Oral Oncology</i> (2026), with a mentee as first author.
         <a href="https://doi.org/10.1016/j.oraloncology.2026.107921">10.1016/j.oraloncology.2026.107921</a></li>
     <li><b>Multi-model AI consensus for surgical laterality verification</b> &mdash; automated cross-checking of
-        operative laterality; presented at the Penn AI in Medicine Conference (2026).</li>
+        operative laterality; presented at the Penn AI in Medicine Conference and as a late-breaking abstract at the
+        AHNS 12th International Conference on Head and Neck Cancer (2026; Abstract 155552).</li>
     <li><b>Institutional AI infrastructure</b> &mdash; Epic&rarr;Databricks pipelines, outcomes registries, and
         agentic workflows for research and quality measurement, including local model deployment where
         protected health data cannot leave the environment.</li>
@@ -119,7 +120,8 @@ neuronal injury.
 | Venue | Talk |
 |---|---|
 | **Epic Users Group Meeting** &mdash; Verona, WI, Aug 2026 | *Agent Factory: building the healthcare helpers of the future* |
-| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Jul 2026 | *AI infrastructure for research & outcomes — building institutional intelligence* (invited panelist, AI in Head & Neck Surgery pre-meeting course) |
+| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Sun Jul 19, 2026 | *AI infrastructure for research & outcomes — building institutional intelligence* (invited speaker, AI in Head & Neck Surgery and Oncology pre-meeting course; 9:33 AM) |
+| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Jul 2026 | *Automated multi-model AI consensus system for surgical laterality verification in otolaryngology* (late-breaking abstract; first author/presenter; Abstract 155552) |
 | **Penn AI in Medicine Conference** &mdash; Philadelphia, Apr 2026 | *Automated multi-model AI consensus system for surgical laterality verification* |
 
 Recognized with an honorable mention for the **2025 Penn Medicine Quality & Safety Award**
