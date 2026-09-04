@@ -64,6 +64,9 @@ neuronal injury.
     <li><b>Multi-model AI consensus for surgical laterality verification</b> &mdash; automated cross-checking of
         operative laterality; presented at the Penn AI in Medicine Conference and as a late-breaking abstract at the
         AHNS 12th International Conference on Head and Neck Cancer (2026; Abstract 155552).</li>
+    <li><b>AI-assisted head and neck cancer data abstraction</b> &mdash; validation of artificial intelligence for
+        electronic medical record data abstraction in head and neck cancer patients; presented in the AI in Head and Neck
+        proffered-paper session at the AHNS 12th International Conference on Head and Neck Cancer (2026; S011).</li>
     <li><b>Institutional AI infrastructure</b> &mdash; Epic&rarr;Databricks pipelines, outcomes registries, and
         agentic workflows for research and quality measurement, including local model deployment where
         protected health data cannot leave the environment.</li>
@@ -120,7 +123,8 @@ neuronal injury.
 | Venue | Talk |
 |---|---|
 | **Epic Users Group Meeting** &mdash; Verona, WI, Aug 2026 | *Agent Factory: building the healthcare helpers of the future* |
-| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Sun Jul 19, 2026 | *AI infrastructure for research & outcomes — building institutional intelligence* (invited speaker, AI in Head & Neck Surgery and Oncology pre-meeting course; 9:33 AM) |
+| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Sat Jul 18, 2026 | *AI infrastructure for research & outcomes — building institutional intelligence* (invited speaker, AI in Head & Neck Surgery and Oncology pre-meeting course; 9:33 AM) |
+| **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Sun Jul 19, 2026 | *Validating the Use of Artificial Intelligence in Electronic Medical Record Data Abstraction for Head and Neck Cancer Patients* (AI in Head and Neck proffered-paper session; S011; senior/last author) |
 | **AHNS 12th Int'l Conference on Head and Neck Cancer** &mdash; Boston, Jul 2026 | *Automated multi-model AI consensus system for surgical laterality verification in otolaryngology* (late-breaking abstract; first author/presenter; Abstract 155552) |
 | **Penn AI in Medicine Conference** &mdash; Philadelphia, Apr 2026 | *Automated multi-model AI consensus system for surgical laterality verification* |
 
