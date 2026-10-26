@@ -4,6 +4,7 @@
 
 <p align="center">
   Visiting Assistant Professor &middot; Department of Otolaryngology&ndash;Head and Neck Surgery<br />
+  Surgeon Informaticist, UI Health &middot; Quality Officer, Department of Otolaryngology&ndash;Head and Neck Surgery<br />
   University of Illinois College of Medicine &middot; UI Health, Chicago
 </p>
 
@@ -28,7 +29,8 @@
 
 Head and neck surgical oncologist and physician&ndash;scientist. My clinical practice covers the
 surgical management of head and neck malignancy, including transoral robotic surgery and
-microvascular free tissue reconstruction.
+microvascular free tissue reconstruction. At UI Health I also serve as a surgeon informaticist and as
+Quality Officer for the Department of Otolaryngology&ndash;Head and Neck Surgery.
 
 My research runs along two tracks. The first is applied AI and clinical informatics &mdash; evaluating
 where language models are and are not reliable in surgical care, and building the data
