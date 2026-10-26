@@ -1,0 +1,3 @@
+# Word sources stay local; only the generated PDFs are published.
+*.docx
+~$*
