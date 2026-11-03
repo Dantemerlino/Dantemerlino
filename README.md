@@ -5,7 +5,8 @@
 <p align="center">
   Visiting Assistant Professor &middot; Department of Otolaryngology&ndash;Head and Neck Surgery<br />
   Surgeon Informaticist, UI Health &middot; Quality Director, Department of Otolaryngology&ndash;Head and Neck Surgery<br />
-  University of Illinois College of Medicine &middot; UI Health, Chicago
+  University of Illinois College of Medicine &middot; UI Health, Chicago<br />
+  Member, Artificial Intelligence (AI) and Emerging Technologies Service, American Head and Neck Society (2026&ndash;2029)
 </p>
 
 <p align="center">
